@@ -1,0 +1,1 @@
+#makes an option trade as coverage; insurance
