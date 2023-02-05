@@ -55,7 +55,6 @@
 [Gitpod rustlings](https://rustlang-rustlings-ns70d8gv5pu.ws-us77.gitpod.io/)
 
 ### Research
-- [ ] Build a computer
-- [ ] Build a mining rig
-- [ ] Build a computer chip
+- [ ] Build a spatial application
+- [ ] Build a mining rig computer chip
 - [ ] Build and IOT
