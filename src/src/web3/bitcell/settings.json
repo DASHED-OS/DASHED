@@ -1,0 +1,12 @@
+{
+    "name": "Dash",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder",
+        "/category/collection/core-entity": true
+    }
+}
