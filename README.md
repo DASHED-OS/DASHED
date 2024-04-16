@@ -1,6 +1,6 @@
 # DASHED - Your Personal Operating System
 
-![DASHED Logo](link-to-your-logo.png)
+[DASHED](https://dashed.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
 
 ## Overview
 
