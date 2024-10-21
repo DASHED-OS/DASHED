@@ -1,0 +1,1 @@
+Can you write me the file for app/contract/src/smart-resources/mointors/services/logging.rs?
